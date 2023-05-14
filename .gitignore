@@ -1,0 +1,8 @@
+.idea
+node_modules
+dist
+out
+*.log*
+cookie-bing.json
+cookie-user.json
+*-lock.yaml
